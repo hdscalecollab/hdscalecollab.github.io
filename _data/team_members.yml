@@ -1,0 +1,137 @@
+- name:  Dr. Marta Jankowska
+  photo: Marta.jpg
+  info:  Associate professor, Lab Director
+  email: mjankowska@coh.org
+  bio:   Marta Jankowska is an Associate Professor in Population Sciences at the Beckman Research Institute at City of Hope Cancer Center in Los Angeles, CA. As a health geographer, she is interested in most everything to do with spatial aspects of health and has a wide-ranging research agenda. In particular, she is passionate about merging multi-levels of health data from the microbiome and omics to biomarker outcomes, to health behaviors, to environmental exposures and structural racism policies. She is also interested in the use of sensor data for fine-scaled exposure measurement.
+  category: staff
+  date:  2014
+
+- name:  Dr. Jiue-An (Jay) Yang
+  photo: Jay.jpg
+  info:  Geospatial Data Scientist, Project Lead
+  email: jyang@coh.org
+  bio:   Jay is a geospatial data scientist with a current focus on contextualizing space, time, and behavior to improve public and personal health. Other research interests include dynamic data visualization, integrating GeoAI in healthcare intervention, and analyzing environmental exposure with daily mobility.
+  category: staff
+  date:  2017
+
+- name:  Dr. Calvin Tribby
+  photo: Calvin.jpg
+  info:  GIS Analyst
+  email: ctribby@coh.org
+  bio:   I am a health and transportation geographer with research interests in urban transportation systems, public health, and environments. My post-doc was as a Cancer Prevention Fellow at the NCI; PhD in Geography from Ohio State University; MPH in Biostatistics from Columbia University; and, MS in Geography and a BS in Mathematics from University of New Mexico.
+  category: staff
+  date:  2021
+
+- name:  Dr. Nivedita Nukavarapu
+  photo: Nivi.jpg
+  info:  Postdoctoral Fellow, joined 2021
+  email: nnukavarapu@coh.org
+  bio :  I have completed my Ph.D. from the Indian Institute of Technology in Bombay, India in Geocomputation. My research interest lies in the intersection of Geographic information systems and Artificial intelligence (GeoAI), and in this space, I build GeoAI-based models to understand the risk, vulnerabilities, and scalability of complex spatiotemporal operations and health outcomes in the health sector. At present, my area of research work is developing GeoAI-based models integrating mHealth (Mobile Health) data, biomarkers, socio-demographic factors, environmental exposures, and satellite imagery-derived variables. This would help in understanding different health outcomes and in developing customized mHealth-based interventions. In my free time, I love reading about history and listening to Bollywood music.
+  category: member
+  date:  202112
+
+- name:  Dr. Sarah Alismail
+  photo: Sarah.jpg
+  info:  Postdoctoral Fellow, joined 2022
+  email: salismail@coh.org
+  bio :  I am driven by curiosity and a desire to solve real-world problems and answer research questions to improve health outcomes. My research interests include exploring and examining topics that fall at the intersections of health, behavior, and information systems & technology. My approach to research is multidisciplinary across domains such as global health, health informatics, mHealth, usability, health behavior, and persuasive technology.
+  category: member
+  date:  202203
+
+- name:  Nare Arakelian
+  photo: Nare.jpg
+  info:  Intern, 2022
+  email: narakelian@coh.org, narakelian@g.ucla.edu
+  bio :  I am a third year student at the University of California, Los Angeles majoring in Human Biology and Society and minoring in Brain and Behavioral Health. I'm  interested in exploring careers  in public health and working to improve health equity in underresourced communities.
+  category: member
+  date:  20220601
+
+- name:  Jessica Naranjo
+  photo: Jessica.png
+  info:  Intern, 2022
+  email: jnaranjo@coh.org, jjnaranjo@usc.edu
+  bio :  I am a third year student at the University of Southern California double majoring in Cognitive Science and Data Science with an emphasis on Psychology and Programming. Ultimately I want to pursue a research based career that integrate modern data visualization and pattern recognition programming.
+  category: member
+  date:  20220603
+
+- name:  Barivure Yorka
+  photo: Barivure.png
+  info:  Intern, 2022
+  email: byorka@coh.org, barivure.yorka@gmail.com
+  bio :  I am a second-year student at the University of Southern California  majoring in global health with an emphasis in pre-medicine. Ultimately, I want to become an OB/GYN and subspecialize in reproductive endocrinology.
+  category: member
+  date:  20220602
+
+- name: "Join Us !"
+  photo: join_us.png
+  info:
+  email:
+  bio:
+  category: member
+  date:  99999999
+
+
+- name: Jiayi Wang
+  photo:
+  info: Student Research Assistant, 2019
+  email:
+  bio:
+  category: alumni
+  date:  20190605
+
+- name: Dr. Nana Luo
+  photo:
+  info: Postdoctoral Fellow, 2019-2021
+  email:
+  bio:
+  category: alumni
+  date:  20211231
+
+- name: Dr. Yanjia Cao
+  photo:
+  info: Visiting Scholar, 2022
+  email:
+  bio:
+  category: alumni
+  date:  20220719
+
+- name: Steven Zamora
+  photo:
+  info: Research Associate, 2019-2022
+  email:
+  bio:
+  category: alumni
+  date:  20220501
+
+- name: Chad Spoon
+  photo:
+  info: Research Associate, 2019-2021
+  email:
+  bio:
+  category: alumni
+  date:  20210930
+
+- name: Claire Chen
+  photo:
+  info: Student Research Assistant, 2019-2021
+  email:
+  bio:
+  category: alumni
+  date:  20211201
+
+
+- name: Clara Voong
+  photo:
+  info: Student Research Assistant, 2019-2021
+  email:
+  bio:
+  category: alumni
+  date:  20211201
+
+- name: Rujia Xie
+  photo:
+  info: Student Research Assistant, 2019-2021
+  email:
+  bio:
+  category: alumni
+  date:  20211201
