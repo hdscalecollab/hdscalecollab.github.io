@@ -1,3 +1,7 @@
+# -------------------------
+# Active Staff Researchers
+# -------------------------
+
 - name:  Dr. Marta Jankowska
   photo: Marta.jpg
   info:  Associate professor, Lab Director
@@ -22,6 +26,11 @@
   category: staff
   date:  2021
 
+# -------------------------
+# Active Collab Members
+# -------------------------
+
+
 - name:  Dr. Nivedita Nukavarapu
   photo: Nivi.jpg
   info:  Postdoctoral Fellow, joined 2021
@@ -38,29 +47,13 @@
   category: member
   date:  202203
 
-- name:  Nare Arakelian
-  photo: Nare.jpg
-  info:  Intern, 2022
-  email: narakelian@coh.org, narakelian@g.ucla.edu
-  bio :  I am a third year student at the University of California, Los Angeles majoring in Human Biology and Society and minoring in Brain and Behavioral Health. I'm  interested in exploring careers  in public health and working to improve health equity in underresourced communities.
+- name:  Vivien Le
+  photo: VivienLe.png
+  info:  Intern, 2023
+  email: vle@coh.org, vivienl@usc.edu
+  bio :  I am a third-year graduate student at the University of Southern California, where I am pursuing a master’s degree in Public Health concentrating on GeoHealth. I am focusing on how geographic arrangement links people, places, social and economic factors, and cultural values with the well-being of individuals and communities. I intend to apply the knowledge and skills learned about the spatial examination of data to emphasize health inequalities in my professional career.
   category: member
-  date:  20220601
-
-- name:  Jessica Naranjo
-  photo: Jessica.png
-  info:  Intern, 2022
-  email: jnaranjo@coh.org, jjnaranjo@usc.edu
-  bio :  I am a third year student at the University of Southern California double majoring in Cognitive Science and Data Science with an emphasis on Psychology and Programming. Ultimately I want to pursue a research based career that integrate modern data visualization and pattern recognition programming.
-  category: member
-  date:  20220603
-
-- name:  Barivure Yorka
-  photo: Barivure.png
-  info:  Intern, 2022
-  email: byorka@coh.org, barivure.yorka@gmail.com
-  bio :  I am a second-year student at the University of Southern California  majoring in global health with an emphasis in pre-medicine. Ultimately, I want to become an OB/GYN and subspecialize in reproductive endocrinology.
-  category: member
-  date:  20220602
+  date:  20230615
 
 - name: "Join Us !"
   photo: join_us.png
@@ -70,6 +63,33 @@
   category: member
   date:  99999999
 
+# -------------------------
+# Alumni
+# -------------------------
+
+- name: Nare Arakelian
+  photo:
+  info: Research Intern, 2022
+  email:
+  bio:
+  category: alumni
+  date:  20220601
+
+- name: Barivure Yorka
+  photo:
+  info: Research Intern, 2022
+  email:
+  bio:
+  category: alumni
+  date:  20220602
+
+- name: Jessica Naranjo
+  photo:
+  info: Research Intern, 2022
+  email:
+  bio:
+  category: alumni
+  date:  20220603
 
 - name: Jiayi Wang
   photo:
