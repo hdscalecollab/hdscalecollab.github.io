@@ -30,15 +30,6 @@
 # Active Collab Members
 # -------------------------
 
-
-- name:  Dr. Nivedita Nukavarapu
-  photo: Nivi.jpg
-  info:  Postdoctoral Fellow, joined 2021
-  email: nnukavarapu@coh.org
-  bio :  I have completed my Ph.D. from the Indian Institute of Technology in Bombay, India in Geocomputation. My research interest lies in the intersection of Geographic information systems and Artificial intelligence (GeoAI), and in this space, I build GeoAI-based models to understand the risk, vulnerabilities, and scalability of complex spatiotemporal operations and health outcomes in the health sector. At present, my area of research work is developing GeoAI-based models integrating mHealth (Mobile Health) data, biomarkers, socio-demographic factors, environmental exposures, and satellite imagery-derived variables. This would help in understanding different health outcomes and in developing customized mHealth-based interventions. In my free time, I love reading about history and listening to Bollywood music.
-  category: member
-  date:  202112
-
 - name:  Dr. Sarah Alismail
   photo: Sarah.jpg
   info:  Postdoctoral Fellow, joined 2022
@@ -66,6 +57,15 @@
 # -------------------------
 # Alumni
 # -------------------------
+
+- name:  Dr. Nivedita Nukavarapu
+  photo: 
+  info:  Postdoctoral Fellow, 2021-2023
+  email: 
+  bio :  
+  category: alumni
+  date:  20230925
+
 
 - name: Nare Arakelian
   photo:
